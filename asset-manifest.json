@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Canvas-React/static/css/main.904da104.css",
+    "main.js": "/Canvas-React/static/js/main.cb2ff1f7.js",
+    "static/js/453.1a7cafe8.chunk.js": "/Canvas-React/static/js/453.1a7cafe8.chunk.js",
+    "index.html": "/Canvas-React/index.html",
+    "main.904da104.css.map": "/Canvas-React/static/css/main.904da104.css.map",
+    "main.cb2ff1f7.js.map": "/Canvas-React/static/js/main.cb2ff1f7.js.map",
+    "453.1a7cafe8.chunk.js.map": "/Canvas-React/static/js/453.1a7cafe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904da104.css",
+    "static/js/main.cb2ff1f7.js"
+  ]
+}
