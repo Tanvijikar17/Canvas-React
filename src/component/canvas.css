@@ -1,0 +1,51 @@
+/* App.css */
+
+/* .canvas {
+    text-align: center;
+    margin-top: 50px;
+  } */
+
+
+body{
+    background-color: #cf8080;
+}
+.canvas-container {
+    display: inline-block;
+    position: relative;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+  
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #dfe7f0;
+}
+  
+button {
+    margin-top: 40px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+button:hover {
+    background-color: #0056b3;
+}
+  
+input[type="file"] {
+    margin-top: 80px;
+    font-size: 16px;
+}
+  
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+  
