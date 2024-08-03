@@ -2,6 +2,8 @@
 
 This project is a web application built with React.js and TypeScript, leveraging the React Sketch Canvas library. It allows users to upload an image, annotate it, and export the annotated image.
 
+Demo : https://tanvijikar17.github.io/Canvas-React/
+
 
 ## Steps to use the webpage
 
